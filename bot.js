@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("529959588154441730")
+let channel =     client.channels.get("534843155158401025")
 setInterval(function() {
 channel.send(`Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel Marcel , Marcel** `);
 }, 30)
